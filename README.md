@@ -1,16 +1,59 @@
-<<<<<<< HEAD
-# Smart Complaint Categorization and Priority Prediction System (NLP)
+# Smart Complaint Categorization and Priority Prediction System Using NLP
 
-## Run
-    pip install -r requirements.txt
-    python -m src.generate_dataset   # creates data/complaints.csv (skip if you built your own)
-    python -m src.train              # trains, evaluates, saves models/ and reports/
-    python -m src.predict "Wi-Fi is down in Lab 2"   # quick CLI test
-    streamlit run app.py             # web UI
+An NLP and Machine Learning based system that automatically analyzes complaints and predicts their **category, priority, department, and recommended action**.
 
-## Pipeline
-Complaint -> clean/lowercase/tokenize/stopwords (negations kept) -> TF-IDF (1-2 grams) -> Logistic Regression / Naive Bayes
--> Category + Priority -> Department & Action (rule-based mapping)
-=======
-# Smart-Complaint-Categorization-and-Priority-Prediction-System-Using-NLP
->>>>>>> a7bb46da9c4400140b36d1f6569059125c5e5524
+## 🚀 Features
+
+* Complaint text preprocessing
+* TF-IDF feature extraction
+* Category prediction
+* Priority prediction
+* Department mapping
+* Recommended action
+* Streamlit web application
+
+## 🧠 Pipeline
+
+```text
+Complaint
+   ↓
+NLP Preprocessing
+   ↓
+TF-IDF
+   ↓
+ML Classification
+   ↓
+Category + Priority
+   ↓
+Department + Action
+```
+
+## 🛠️ Technologies
+
+* Python
+* NLP
+* Scikit-learn
+* Pandas
+* TF-IDF
+* Logistic Regression / Naive Bayes
+* Streamlit
+
+## ▶️ Run the Project
+
+```bash
+pip install -r requirements.txt
+python -m src.generate_dataset
+python -m src.train
+streamlit run app.py
+```
+
+## 📁 Project Structure
+
+```text
+data/       → Dataset
+models/     → Trained models
+reports/    → Evaluation results
+src/        → NLP and ML code
+app.py      → Streamlit application
+```
+
