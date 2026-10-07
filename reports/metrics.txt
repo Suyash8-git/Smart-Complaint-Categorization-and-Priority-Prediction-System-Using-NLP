@@ -1,0 +1,51 @@
+Dataset: 700 complaints
+
+===== CATEGORY - Logistic Regression =====
+Accuracy: 1.0000
+                precision    recall  f1-score   support
+
+   Electricity       1.00      1.00      1.00        20
+      Hardware       1.00      1.00      1.00        20
+Internet/Wi-Fi       1.00      1.00      1.00        20
+   Maintenance       1.00      1.00      1.00        20
+         Other       1.00      1.00      1.00        20
+      Security       1.00      1.00      1.00        20
+      Software       1.00      1.00      1.00        20
+
+      accuracy                           1.00       140
+     macro avg       1.00      1.00      1.00       140
+  weighted avg       1.00      1.00      1.00       140
+
+
+===== CATEGORY - Naive Bayes =====
+Accuracy: 1.0000
+                precision    recall  f1-score   support
+
+   Electricity       1.00      1.00      1.00        20
+      Hardware       1.00      1.00      1.00        20
+Internet/Wi-Fi       1.00      1.00      1.00        20
+   Maintenance       1.00      1.00      1.00        20
+         Other       1.00      1.00      1.00        20
+      Security       1.00      1.00      1.00        20
+      Software       1.00      1.00      1.00        20
+
+      accuracy                           1.00       140
+     macro avg       1.00      1.00      1.00       140
+  weighted avg       1.00      1.00      1.00       140
+
+
+Model comparison (category): {'Logistic Regression': 1.0, 'Naive Bayes': 1.0}
+Selected: Logistic Regression
+
+===== PRIORITY - Logistic Regression =====
+Accuracy: 0.6357
+              precision    recall  f1-score   support
+
+    Critical       0.67      0.67      0.67        21
+        High       0.54      0.68      0.60        37
+         Low       0.81      0.64      0.71        33
+      Medium       0.62      0.59      0.60        49
+
+    accuracy                           0.64       140
+   macro avg       0.66      0.64      0.65       140
+weighted avg       0.65      0.64      0.64       140

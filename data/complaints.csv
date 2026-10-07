@@ -1,0 +1,701 @@
+complaint,category,priority
+"Sir, the hard disk has crashed in the examination hall for the last two days",Hardware,High
+I want to report that a student is misusing another student's id card in the department office since yesterday but we can manage for now,Security,Low
+I want to report that the generator is not starting near the canteen this week and the placement test is starting soon,Electricity,High
+"Hello, the keyboard keys are not working in the seminar hall",Hardware,Medium
+The bulb has fused near the canteen since yesterday,Electricity,Low
+"Please note that python is not installed on the lab computers in the seminar hall since morning, please fix it urgently",Software,High
+I want to report that the browser is freezing in the main building and students are unable to work,Software,Medium
+The operating system is very slow in the hostel and it needs immediate attention,Software,Medium
+"Kindly check, the ups is beeping continuously in the seminar hall again today and our practical exam is today",Electricity,High
+I want to report that the bulb has fused in lab 3 since yesterday it is a minor problem,Electricity,Low
+"I did not receive my exam hall ticket in classroom 204 since morning, please fix it urgently",Other,Critical
+I want to report that there is a power failure in the department office,Electricity,High
+I want to report that the hard disk has crashed in the server room,Hardware,High
+There is no network connectivity in the server room since yesterday and the placement test is starting soon,Internet/Wi-Fi,Critical
+I want to report that the security guard was not at the gate in the server room again today,Security,Medium
+"My laptop was stolen this week, please fix it urgently",Security,Critical
+"Kindly check, the washroom is not clean in lab 3 this week",Maintenance,Medium
+"Kindly check, there is a suspicious bag lying unattended in the seminar hall",Security,Critical
+The canteen food quality is poor for the last two days,Other,Medium
+"Hello, the ceiling is leaking water in the seminar hall for the last two days",Maintenance,High
+The generator is not starting near the canteen since yesterday,Electricity,Medium
+"Hello, the power sockets are not working this week",Electricity,Medium
+"Hello, the cctv camera is not working in the examination hall since yesterday and the exam is about to start",Security,Critical
+I want to report that the exam software is not loading since yesterday,Software,High
+"Kindly check, the antivirus is showing a virus warning near the canteen since yesterday but it is not urgent",Software,Medium
+"Sir, the lights are not working in the server room since yesterday",Electricity,Medium
+The bench is damaged in classroom 204,Maintenance,Low
+The internet connection is completely down in the main building,Internet/Wi-Fi,High
+Please note that python is not installed on the lab computers in the examination hall,Software,Medium
+Please note that the database application shows an error in the examination hall since yesterday,Software,Medium
+"Kindly check, the laptop battery is draining very fast near the canteen",Hardware,Low
+"Hello, someone tried to access my account without permission in the computer laboratory",Security,High
+I want to report that the server hardware has failed in the server room,Hardware,Critical
+The laptop battery is draining very fast in lab 3,Hardware,Low
+"Kindly check, the computer monitor is broken in the computer laboratory",Hardware,Medium
+"Hello, the whiteboard is damaged in the computer laboratory this week",Maintenance,Low
+I want to report that the security guard was not at the gate near the canteen this week but it is not urgent,Security,Low
+"Sir, the drainage is blocked in the library",Maintenance,High
+Please note that there was unauthorized access to the server room in the server room since morning and the exam is about to start,Security,Critical
+"Kindly check, the scanner is not working since yesterday it is a minor problem",Hardware,Low
+The scanner is not working in the seminar hall since morning,Hardware,Low
+I want to report that the wifi is not working in classroom 204 again today but it is not urgent,Internet/Wi-Fi,Medium
+Unable to login to the student portal near the canteen this week,Software,High
+"Kindly check, my laptop was stolen in the department office again today",Security,Critical
+Please note that my scholarship amount has not arrived in lab 3 since morning,Other,Medium
+Please note that a student is misusing another student's id card in the server room,Security,Medium
+I want to change my timetable slot in the hostel,Other,Low
+The tube light is flickering in the hostel since morning and the exam is about to start,Electricity,Medium
+I want to report that the network keeps disconnecting in the examination hall since yesterday,Internet/Wi-Fi,Medium
+The laptop battery is draining very fast in classroom 204 and students are unable to work,Hardware,Medium
+I want to report that the switch board is sparking in the library again today and it needs immediate attention,Electricity,Critical
+The internet speed is very slow in the main building for the last two days it is a minor problem,Internet/Wi-Fi,Low
+Someone entered the restricted area without permission near the canteen for the last two days and it needs immediate attention,Security,Critical
+"Sir, there is no network connectivity in the examination hall since morning, please fix it urgently",Internet/Wi-Fi,Critical
+Please note that there is no network connectivity in lab 1 but it is not urgent,Internet/Wi-Fi,Medium
+"Sir, i need help with my id card in the seminar hall since yesterday",Other,Low
+Please note that i lost my id card in the department office for the last two days,Security,Medium
+The printer is jammed in the seminar hall for the last two days,Hardware,Medium
+"Hello, ms word is not opening in the computer laboratory again today",Software,Medium
+The faculty is not responding to my emails in classroom 204 for the last two days but we can manage for now,Other,Low
+The internet speed is very slow again today,Internet/Wi-Fi,Low
+"Hello, the bulb has fused in the department office and students are unable to work",Electricity,Medium
+The fan is making noise in lab 1 again today,Maintenance,Low
+"Sir, the wifi password is not working in the library",Internet/Wi-Fi,Medium
+The library is closing at wrong timings in classroom 204 for the last two days and it needs immediate attention,Other,Medium
+"Sir, the biometric attendance is not working in the seminar hall since morning",Security,Medium
+"Sir, the exam software is not loading in the seminar hall for the last two days",Software,High
+"Hello, the wifi password is not working for the last two days",Internet/Wi-Fi,Medium
+"Kindly check, the hard disk has crashed in the computer laboratory this week",Hardware,High
+"Hello, my scholarship amount has not arrived for the last two days and the placement test is starting soon",Other,High
+"Kindly check, an electric wire is hanging loose",Electricity,Critical
+"Sir, the wifi is not working in the department office for the last two days and the exam is about to start",Internet/Wi-Fi,Critical
+Please note that the antivirus is showing a virus warning in the server room since yesterday,Software,High
+Please note that unable to connect to the college wifi in the hostel again today,Internet/Wi-Fi,Medium
+"Hello, the ceiling is leaking water in the department office and students are unable to work",Maintenance,Critical
+"Hello, my scholarship amount has not arrived in the examination hall again today",Other,Medium
+"Sir, the entrance gate lock is broken again today, please fix it urgently",Security,Critical
+The canteen food quality is poor in classroom 204,Other,Medium
+I want to report that the computer is not starting in the hostel this week it is a minor problem,Hardware,Medium
+"Voltage fluctuation is damaging the devices in the hostel, please fix it urgently",Electricity,Critical
+"Kindly check, the excel file is corrupted and will not open in the server room for the last two days",Software,Medium
+Unable to login to the student portal this week,Software,High
+"Sir, i need help with my id card in lab 1 since yesterday",Other,Low
+Unable to install the required software in the main building again today,Software,Medium
+I want to report that the computer monitor is broken for the last two days it is a minor problem,Hardware,Low
+"Sir, i want to change my timetable slot in the hostel since yesterday, please fix it urgently",Other,Medium
+The internet connection is completely down for the last two days and students are unable to work,Internet/Wi-Fi,Critical
+An electric wire is hanging loose in the department office again today but we can manage for now,Electricity,High
+Please note that cannot access any website in classroom 204 and this is an emergency,Internet/Wi-Fi,High
+"Hello, cannot access any website in the department office",Internet/Wi-Fi,Medium
+The library is closing at wrong timings in the main building since morning,Other,Low
+There is a power failure,Electricity,High
+"Sir, there is no network connectivity in classroom 204 but it is not urgent",Internet/Wi-Fi,Medium
+Please note that the notice board has outdated information in lab 3 since yesterday and this is an emergency,Other,Medium
+"The internet connection is completely down in the department office, please fix it urgently",Internet/Wi-Fi,Critical
+The security guard was not at the gate,Security,Medium
+The college bus is always late in classroom 204 again today,Other,Medium
+The application keeps crashing in lab 3,Software,Medium
+"Hello, ms word is not opening in lab 3 and this is an emergency",Software,High
+"Kindly check, the projector is not turning on again today and this is an emergency",Hardware,High
+"Hello, the room needs cleaning in the hostel since yesterday",Maintenance,Low
+"Kindly check, the cpu is making a loud noise in the library",Hardware,Low
+"Hello, i need help with my id card in the department office since morning",Other,Low
+"Sir, the bulb has fused in the department office",Electricity,Low
+"Sir, the internet is lagging a lot in lab 1 again today and this is an emergency",Internet/Wi-Fi,Medium
+The window glass is broken in lab 3,Maintenance,Medium
+The wifi signal is very weak in the computer laboratory,Internet/Wi-Fi,Low
+The screen is flickering in lab 1 since yesterday,Hardware,Medium
+Please note that the hard disk has crashed near the canteen since morning and our practical exam is today,Hardware,Critical
+Please note that the router is not responding in lab 1 since yesterday and the exam is about to start,Internet/Wi-Fi,Critical
+I want to report that the exam software is not loading in the computer laboratory for the last two days,Software,High
+"Hello, the washroom is not clean near the canteen only sometimes",Maintenance,Low
+I want to report that the internet speed is very slow,Internet/Wi-Fi,Low
+"Kindly check, the projector is not turning on for the last two days, please fix it urgently",Hardware,High
+Please note that an unknown person is roaming around in the seminar hall and this is an emergency,Security,Critical
+I want to report that the database application shows an error in the server room again today,Software,Medium
+"Kindly check, the power sockets are not working in classroom 204 since morning it is a minor problem",Electricity,Low
+Someone tried to access my account without permission in lab 3 since morning and this is an emergency,Security,Critical
+The tube light is flickering since morning and the exam is about to start,Electricity,Medium
+I want to report that the printer is jammed in the seminar hall for the last two days,Hardware,Medium
+"Hello, the drainage is blocked in the computer laboratory but we can manage for now",Maintenance,Medium
+Please note that the power supply keeps tripping this week it is a minor problem,Electricity,Medium
+The excel file is corrupted and will not open in the hostel this week and our practical exam is today,Software,High
+"Kindly check, i want to change my timetable slot in the hostel for the last two days",Other,Low
+"Hello, the ups is beeping continuously in the library again today but we can manage for now",Electricity,Low
+"Sir, the wifi signal is very weak in the hostel since yesterday and the placement test is starting soon",Internet/Wi-Fi,Medium
+"Hello, the notice board has outdated information in the hostel since yesterday",Other,Low
+"I want to report that the window glass is broken in the main building for the last two days, please fix it urgently",Maintenance,High
+Please note that i need help with my id card in classroom 204 for the last two days,Other,Low
+"Sir, cannot access any website",Internet/Wi-Fi,Medium
+"Sir, the keyboard keys are not working in the library since morning",Hardware,Medium
+Please note that the canteen food quality is poor in the library since yesterday only sometimes,Other,Low
+The internet speed is very slow in the main building,Internet/Wi-Fi,Low
+The room needs cleaning in the department office,Maintenance,Low
+Please note that there was unauthorized access to the server room for the last two days,Security,Critical
+The wifi is not working in lab 1 for the last two days,Internet/Wi-Fi,High
+"Hello, ms word is not opening in the library",Software,Medium
+Please note that the ceiling is leaking water in the library,Maintenance,High
+"Kindly check, the application keeps crashing in the department office again today, please fix it urgently",Software,High
+"Sir, the projector is not turning on since yesterday only sometimes",Hardware,Low
+The lan cable is not connecting to the network since morning but we can manage for now,Internet/Wi-Fi,Low
+"Kindly check, there is no network connectivity in lab 3",Internet/Wi-Fi,High
+Please note that the browser is freezing in the examination hall this week,Software,Low
+The library is closing at wrong timings near the canteen since morning but it is not urgent,Other,Low
+"Kindly check, i lost my id card in the main building for the last two days only sometimes",Security,Low
+The lights are not working since morning it is a minor problem,Electricity,Low
+"Sir, there was unauthorized access to the server room in the seminar hall and this is an emergency",Security,Critical
+Please note that the database application shows an error in the seminar hall this week,Software,Medium
+"Kindly check, the database application shows an error near the canteen since morning and the placement test is starting soon",Software,High
+Cannot access any website in the library it is a minor problem,Internet/Wi-Fi,Low
+"Sir, the software license has expired in the main building since morning",Software,Medium
+"Hello, unable to install the required software this week and students are unable to work",Software,High
+"Kindly check, the room needs cleaning in the hostel since yesterday, please fix it urgently",Maintenance,Medium
+The database application shows an error this week,Software,Medium
+The internet speed is very slow in the hostel,Internet/Wi-Fi,Low
+"Kindly check, the database application shows an error in the library again today and the placement test is starting soon",Software,High
+I want to report that the switch board is sparking in the seminar hall this week and students are unable to work,Electricity,Critical
+The network keeps disconnecting in the main building since morning,Internet/Wi-Fi,Medium
+"Kindly check, the projector is not turning on in lab 1 since yesterday",Hardware,Medium
+I want to report that there is a power failure near the canteen,Electricity,High
+The power sockets are not working in lab 3 again today,Electricity,Medium
+The bulb has fused in the library,Electricity,Low
+"Sir, the whiteboard is damaged in classroom 204",Maintenance,Low
+The antivirus is showing a virus warning in the examination hall this week and students are unable to work,Software,Critical
+The security guard was not at the gate in the department office,Security,Medium
+Please note that the generator is not starting in the computer laboratory and the exam is about to start,Electricity,High
+Please note that the tap is leaking in lab 3 and students are unable to work,Maintenance,Medium
+Someone tried to access my account without permission in the server room again today it is a minor problem,Security,Medium
+"Hello, there is no electricity in lab 3 this week",Electricity,High
+"Hello, there is a power failure in the hostel for the last two days, please fix it urgently",Electricity,Critical
+Please note that the canteen food quality is poor in lab 3 this week,Other,Medium
+"Hello, someone tried to access my account without permission in the main building",Security,High
+Unable to install the required software in the library for the last two days it is a minor problem,Software,Low
+"Kindly check, the power sockets are not working in the seminar hall for the last two days",Electricity,Medium
+My scholarship amount has not arrived in classroom 204 and the placement test is starting soon,Other,High
+The mouse is not responding since yesterday,Hardware,Low
+The database application shows an error in the computer laboratory this week,Software,Medium
+I want to report that i want to change my timetable slot in the department office for the last two days,Other,Low
+My laptop was stolen in the hostel since yesterday,Security,Critical
+"Kindly check, the washroom is not clean in lab 3 for the last two days",Maintenance,Medium
+The software license has expired but we can manage for now,Software,Low
+"Kindly check, the window glass is broken in the examination hall for the last two days and students are unable to work",Maintenance,High
+"Hello, the screen is flickering in the server room for the last two days",Hardware,Medium
+"Sir, the server hardware has failed in the seminar hall",Hardware,Critical
+"I did not receive my exam hall ticket in the seminar hall since morning, please fix it urgently",Other,Critical
+I want to report that there is a suspicious bag lying unattended in the server room since yesterday and the exam is about to start,Security,Critical
+The fan is making noise since yesterday,Maintenance,Low
+I want to report that the wifi signal is very weak in the seminar hall since yesterday,Internet/Wi-Fi,Low
+I want to report that the wifi signal is very weak in the main building since morning and the placement test is starting soon,Internet/Wi-Fi,Medium
+Please note that the wifi password is not working in the department office it is a minor problem,Internet/Wi-Fi,Low
+Someone tried to access my account without permission in the department office again today only sometimes,Security,Medium
+The generator is not starting in the seminar hall since yesterday and this is an emergency,Electricity,High
+"Hello, the security guard was not at the gate in lab 1 this week and it needs immediate attention",Security,High
+I want to report that the security guard was not at the gate in the seminar hall this week and this is an emergency,Security,High
+The bulb has fused in lab 3 this week,Electricity,Low
+"Kindly check, i did not receive my exam hall ticket in the examination hall only sometimes",Other,Medium
+I want to report that the laptop battery is draining very fast in the library for the last two days,Hardware,Low
+"Sir, unable to connect to the college wifi in lab 3 since morning",Internet/Wi-Fi,Medium
+"There is no network connectivity since yesterday, please fix it urgently",Internet/Wi-Fi,Critical
+"Hello, the wifi password is not working in the seminar hall this week it is a minor problem",Internet/Wi-Fi,Low
+I want to report that the internet speed is very slow in the examination hall for the last two days,Internet/Wi-Fi,Low
+Please note that the hard disk has crashed in the server room and the exam is about to start,Hardware,Critical
+Unable to install the required software in lab 3 only sometimes,Software,Low
+I want to report that the faculty is not responding to my emails in the server room,Other,Low
+Please note that unable to connect to the college wifi in the server room,Internet/Wi-Fi,Medium
+The internet connection is completely down in the computer laboratory since morning,Internet/Wi-Fi,High
+"The notice board has outdated information in the department office, please fix it urgently",Other,Medium
+I want to report that the cctv camera is not working in the seminar hall,Security,High
+"Hello, the server hardware has failed in the server room this week",Hardware,Critical
+"Hello, a student is misusing another student's id card this week",Security,Medium
+Please note that the bulb has fused in the examination hall,Electricity,Low
+My certificate has not been issued in the seminar hall since morning and our practical exam is today,Other,High
+"Hello, the application keeps crashing in the department office and students are unable to work",Software,High
+"Hello, the water cooler is leaking in lab 3 this week",Maintenance,Medium
+The computer is not starting in the hostel since yesterday but it is not urgent,Hardware,Medium
+The water cooler is leaking in lab 1 since morning but we can manage for now,Maintenance,Low
+The water cooler is leaking in the server room since yesterday,Maintenance,Medium
+Please note that the network keeps disconnecting,Internet/Wi-Fi,Medium
+I want to report that the door lock is broken in the library for the last two days but we can manage for now,Maintenance,Low
+An electric wire is hanging loose in the server room again today and this is an emergency,Electricity,Critical
+"Hello, an unknown person is roaming around in the hostel since morning only sometimes",Security,Medium
+The security guard was not at the gate in the main building,Security,Medium
+I want to report that the internet speed is very slow in the library this week and it needs immediate attention,Internet/Wi-Fi,Medium
+Please note that the wifi signal is very weak in the department office this week it is a minor problem,Internet/Wi-Fi,Low
+"Sir, the wifi signal is very weak in lab 1 since morning, please fix it urgently",Internet/Wi-Fi,Medium
+An electric wire is hanging loose in the server room this week,Electricity,Critical
+I want to report that the operating system is very slow in classroom 204 since morning,Software,Low
+The excel file is corrupted and will not open again today,Software,Medium
+My scholarship amount has not arrived in the hostel it is a minor problem,Other,Low
+I want to report that the lights are not working in the server room it is a minor problem,Electricity,Low
+I did not receive my exam hall ticket near the canteen since yesterday and the placement test is starting soon,Other,Critical
+"Sir, the keyboard keys are not working in the examination hall since yesterday and it needs immediate attention",Hardware,High
+The bench is damaged in the hostel again today,Maintenance,Low
+Someone tried to access my account without permission near the canteen,Security,High
+Cannot access any website in the library for the last two days,Internet/Wi-Fi,Medium
+"Kindly check, the cctv camera is not working in the computer laboratory again today",Security,High
+"Kindly check, the application keeps crashing",Software,Medium
+"I want to report that the lan cable is not connecting to the network in the main building, please fix it urgently",Internet/Wi-Fi,High
+"Hello, the internet connection is completely down in the main building and the exam is about to start",Internet/Wi-Fi,Critical
+"Hello, i lost my id card in the library since yesterday and this is an emergency",Security,High
+I want to report that unable to login to the student portal in classroom 204 again today,Software,High
+Please note that the whiteboard is damaged in the seminar hall for the last two days but it is not urgent,Maintenance,Low
+"Sir, the canteen food quality is poor in lab 3 and our practical exam is today",Other,High
+I want to report that there is a power failure in the examination hall but it is not urgent,Electricity,Medium
+"Hello, the internet is lagging a lot in the main building for the last two days but we can manage for now",Internet/Wi-Fi,Low
+"Kindly check, the power sockets are not working near the canteen this week and the placement test is starting soon",Electricity,High
+Python is not installed on the lab computers in the library this week,Software,Medium
+"Hello, the security guard was not at the gate in the main building and it needs immediate attention",Security,High
+"Hello, the faculty is not responding to my emails in lab 1 only sometimes",Other,Low
+"Hello, the database application shows an error in the hostel again today",Software,Medium
+The screen is flickering in the hostel again today it is a minor problem,Hardware,Low
+Please note that my scholarship amount has not arrived in the server room and this is an emergency,Other,High
+The tube light is flickering in the server room since morning,Electricity,Low
+The lights are not working and the exam is about to start,Electricity,High
+"Kindly check, cannot access any website in the examination hall this week",Internet/Wi-Fi,Medium
+"Sir, the entrance gate lock is broken in the library this week only sometimes",Security,Medium
+I want to report that unable to login to the student portal in the hostel again today,Software,High
+I want to report that the application keeps crashing in the examination hall and our practical exam is today,Software,High
+The power sockets are not working in the examination hall since morning,Electricity,Medium
+The server hardware has failed in lab 1 for the last two days,Hardware,Critical
+My scholarship amount has not arrived in the examination hall this week and it needs immediate attention,Other,High
+"Kindly check, the biometric attendance is not working in lab 1 since yesterday",Security,Medium
+"Kindly check, the computer monitor is broken in the seminar hall since yesterday",Hardware,Medium
+The network keeps disconnecting in the computer laboratory,Internet/Wi-Fi,Medium
+"Hello, the ups is beeping continuously since yesterday",Electricity,Medium
+Please note that the router is not responding in lab 3 again today,Internet/Wi-Fi,High
+The parking space is not sufficient in the seminar hall since yesterday and the placement test is starting soon,Other,Medium
+"Hello, the hard disk has crashed in the server room since yesterday",Hardware,High
+The database application shows an error since morning only sometimes,Software,Low
+Please note that the wifi password is not working in the department office since morning,Internet/Wi-Fi,Medium
+My laptop was stolen in the examination hall since yesterday and this is an emergency,Security,Critical
+The mouse is not responding in the computer laboratory for the last two days,Hardware,Low
+"Sir, the cpu is making a loud noise in the seminar hall again today",Hardware,Low
+I want to report that there was unauthorized access to the server room in the department office since yesterday and the exam is about to start,Security,Critical
+"Hello, the software license has expired in the main building again today",Software,Medium
+"Please note that the wifi password is not working in classroom 204, please fix it urgently",Internet/Wi-Fi,High
+"Sir, the canteen food quality is poor in lab 1 since morning and students are unable to work",Other,High
+"Hello, someone tried to access my account without permission in the examination hall since morning",Security,High
+The room needs cleaning in the examination hall again today,Maintenance,Low
+"Kindly check, my certificate has not been issued in the seminar hall since morning and this is an emergency",Other,High
+Python is not installed on the lab computers in lab 1,Software,Medium
+The scanner is not working in the server room since yesterday,Hardware,Low
+I want to report that the antivirus is showing a virus warning in the examination hall,Software,High
+Please note that i did not receive my exam hall ticket this week and the placement test is starting soon,Other,Critical
+The lights are not working in lab 1 since morning,Electricity,Medium
+"Hello, python is not installed on the lab computers",Software,Medium
+The room needs cleaning in the library since yesterday,Maintenance,Low
+"Hello, the computer monitor is broken near the canteen and the exam is about to start",Hardware,High
+The power supply keeps tripping in the examination hall,Electricity,High
+I want to report that the washroom is not clean in the department office since morning,Maintenance,Medium
+"Sir, i want to change my timetable slot in the library again today",Other,Low
+"Kindly check, there is a suspicious bag lying unattended in the examination hall this week, please fix it urgently",Security,Critical
+The antivirus is showing a virus warning in lab 1 since yesterday only sometimes,Software,Medium
+The bench is damaged in the department office since yesterday,Maintenance,Low
+The internet speed is very slow in the seminar hall this week,Internet/Wi-Fi,Low
+"Sir, the excel file is corrupted and will not open in the computer laboratory since yesterday, please fix it urgently",Software,High
+"Sir, the hard disk has crashed near the canteen but we can manage for now",Hardware,Medium
+"Sir, the parking space is not sufficient in lab 3",Other,Low
+"Kindly check, the biometric attendance is not working in lab 1 for the last two days only sometimes",Security,Low
+"Sir, the hard disk has crashed in the library since yesterday",Hardware,High
+"Kindly check, the water cooler is leaking again today and the placement test is starting soon",Maintenance,High
+The entrance gate lock is broken in lab 1 it is a minor problem,Security,Medium
+"Kindly check, someone entered the restricted area without permission in the seminar hall",Security,Critical
+The server hardware has failed in the examination hall since yesterday and the placement test is starting soon,Hardware,Critical
+"Kindly check, an electric wire is hanging loose in lab 1",Electricity,Critical
+The parking space is not sufficient near the canteen this week and it needs immediate attention,Other,Medium
+The power supply keeps tripping in the hostel it is a minor problem,Electricity,Medium
+I want to report that the hard disk has crashed in the library since morning and our practical exam is today,Hardware,Critical
+"Kindly check, the power supply keeps tripping in the examination hall for the last two days but it is not urgent",Electricity,Medium
+The ups is beeping continuously in the server room this week,Electricity,Medium
+Please note that the server hardware has failed this week,Hardware,Critical
+The projector is not turning on in classroom 204 and our practical exam is today,Hardware,High
+"Hello, my laptop was stolen in the hostel",Security,Critical
+"Hello, my certificate has not been issued in the seminar hall only sometimes",Other,Low
+Please note that the projector is not turning on in the department office,Hardware,Medium
+Please note that the door lock is broken in the department office since morning,Maintenance,Medium
+I want to report that a student is misusing another student's id card in the library this week,Security,Medium
+"Hello, my fees receipt has not been issued in lab 1 since yesterday",Other,Medium
+I want to report that the lights are not working for the last two days,Electricity,Medium
+My fees receipt has not been issued in the library again today,Other,Medium
+"Kindly check, the keyboard keys are not working in the department office this week and it needs immediate attention",Hardware,High
+The server hardware has failed in the department office,Hardware,Critical
+Please note that there is no electricity in the seminar hall,Electricity,High
+The generator is not starting in lab 3 and it needs immediate attention,Electricity,High
+Please note that the internet speed is very slow near the canteen for the last two days,Internet/Wi-Fi,Low
+"Sir, the screen is flickering in lab 1 this week and our practical exam is today",Hardware,High
+Please note that the college bus is always late in the hostel,Other,Medium
+I want to report that the generator is not starting in the library again today,Electricity,Medium
+Please note that the canteen food quality is poor near the canteen,Other,Medium
+I want to report that cannot access any website in lab 3 since morning,Internet/Wi-Fi,Medium
+"Kindly check, an electric wire is hanging loose in the department office and students are unable to work",Electricity,Critical
+I want to report that unable to connect to the college wifi since morning,Internet/Wi-Fi,Medium
+"Sir, there is a suspicious bag lying unattended in the library again today",Security,Critical
+"Kindly check, the screen is flickering since yesterday",Hardware,Medium
+"Sir, the room needs cleaning near the canteen",Maintenance,Low
+"Hello, the door lock is broken in the department office",Maintenance,Medium
+"Sir, the software license has expired this week and the exam is about to start",Software,High
+"Kindly check, the exam software is not loading in lab 1 for the last two days",Software,High
+The window glass is broken in the hostel since yesterday,Maintenance,Medium
+Please note that the excel file is corrupted and will not open near the canteen this week and the exam is about to start,Software,High
+Please note that the laptop battery is draining very fast in the server room since yesterday and our practical exam is today,Hardware,Medium
+The printer is jammed in the main building for the last two days,Hardware,Medium
+"Hello, there was unauthorized access to the server room",Security,Critical
+The switch board is sparking in lab 1 for the last two days,Electricity,Critical
+"Kindly check, the excel file is corrupted and will not open this week and our practical exam is today",Software,High
+"Hello, the laptop battery is draining very fast in the department office again today and it needs immediate attention",Hardware,Medium
+The switch board is sparking in the department office since morning,Electricity,Critical
+The screen is flickering in the examination hall again today,Hardware,Medium
+I want to report that the ups is beeping continuously in the computer laboratory since yesterday and the placement test is starting soon,Electricity,High
+I want to report that the wifi signal is very weak in the library,Internet/Wi-Fi,Low
+The door lock is broken in lab 3 since yesterday,Maintenance,Medium
+Unable to login to the student portal in lab 1,Software,High
+The operating system is very slow in the hostel since yesterday and the placement test is starting soon,Software,Medium
+I want to report that the internet connection is completely down in classroom 204 again today and students are unable to work,Internet/Wi-Fi,Critical
+Please note that the drainage is blocked in the department office,Maintenance,High
+"Kindly check, there is a power failure in the main building since morning only sometimes",Electricity,Medium
+"Kindly check, the database application shows an error in lab 1",Software,Medium
+Please note that the drainage is blocked in the examination hall again today and it needs immediate attention,Maintenance,Critical
+"Hello, the notice board has outdated information near the canteen since morning and the exam is about to start",Other,Medium
+The screen is flickering in the server room,Hardware,Medium
+"Kindly check, the fan is making noise again today and this is an emergency",Maintenance,Medium
+"Hello, i need help with my id card in classroom 204 again today",Other,Low
+The parking space is not sufficient in lab 3 this week and our practical exam is today,Other,Medium
+Please note that there is no network connectivity in the department office again today and our practical exam is today,Internet/Wi-Fi,Critical
+"Hello, the keyboard keys are not working in the server room for the last two days",Hardware,Medium
+There is no electricity in the hostel for the last two days,Electricity,High
+"Hello, the faculty is not responding to my emails in the computer laboratory again today",Other,Low
+"Kindly check, an unknown person is roaming around in the hostel and students are unable to work",Security,Critical
+My fees receipt has not been issued in the library and students are unable to work,Other,High
+The tap is leaking in lab 3 it is a minor problem,Maintenance,Low
+Please note that the door lock is broken in the examination hall since morning,Maintenance,Medium
+I want to report that the network keeps disconnecting in the library,Internet/Wi-Fi,Medium
+Please note that my fees receipt has not been issued in the server room but it is not urgent,Other,Low
+The lan cable is not connecting to the network in the library since yesterday it is a minor problem,Internet/Wi-Fi,Low
+I want to report that the power supply keeps tripping in classroom 204 since yesterday,Electricity,High
+I want to report that a student is misusing another student's id card and the placement test is starting soon,Security,High
+"Hello, the cpu is making a loud noise near the canteen since morning but it is not urgent",Hardware,Low
+I want to report that the wifi is not working in the computer laboratory since morning and our practical exam is today,Internet/Wi-Fi,Critical
+"Kindly check, the internet speed is very slow in classroom 204 this week and it needs immediate attention",Internet/Wi-Fi,Medium
+The library is closing at wrong timings in lab 3 and the placement test is starting soon,Other,Medium
+I need help with my id card in the library,Other,Low
+"Hello, the wifi is not working in classroom 204 since yesterday",Internet/Wi-Fi,High
+Please note that the fan is making noise in the main building again today,Maintenance,Low
+"I want to report that the fan is making noise in the examination hall since yesterday, please fix it urgently",Maintenance,Medium
+Voltage fluctuation is damaging the devices in the hostel since morning,Electricity,High
+The college bus is always late in the department office since morning and the exam is about to start,Other,High
+The antivirus is showing a virus warning in the examination hall since morning,Software,High
+"Sir, someone entered the restricted area without permission near the canteen",Security,Critical
+"Sir, python is not installed on the lab computers in the department office for the last two days and students are unable to work",Software,High
+"Sir, i want to change my timetable slot in the seminar hall since morning",Other,Low
+The software license has expired in classroom 204,Software,Medium
+Please note that the wifi signal is very weak in the department office this week and our practical exam is today,Internet/Wi-Fi,Medium
+The entrance gate lock is broken in the library since morning,Security,High
+Please note that the application keeps crashing in the hostel but we can manage for now,Software,Low
+"Kindly check, the wifi signal is very weak in the library since yesterday and the placement test is starting soon",Internet/Wi-Fi,Medium
+"Kindly check, the generator is not starting",Electricity,Medium
+The browser is freezing in the examination hall,Software,Low
+"Sir, the internet is lagging a lot",Internet/Wi-Fi,Low
+The screen is flickering in classroom 204,Hardware,Medium
+The browser is freezing in the computer laboratory since yesterday and the exam is about to start,Software,Medium
+The parking space is not sufficient in the main building,Other,Low
+Please note that the bulb has fused in the library this week and students are unable to work,Electricity,Medium
+"Kindly check, there is no electricity in classroom 204 for the last two days",Electricity,High
+The scanner is not working in the main building since yesterday but we can manage for now,Hardware,Low
+The college bus is always late in lab 3 this week and this is an emergency,Other,High
+The bench is damaged in lab 3 for the last two days only sometimes,Maintenance,Low
+"Hello, someone entered the restricted area without permission and students are unable to work",Security,Critical
+I want to report that the cpu is making a loud noise in the hostel for the last two days,Hardware,Low
+Someone tried to access my account without permission in the examination hall again today,Security,High
+My scholarship amount has not arrived in the hostel again today and students are unable to work,Other,High
+"Hello, the tap is leaking in the hostel it is a minor problem",Maintenance,Low
+"Please note that the washroom is not clean, please fix it urgently",Maintenance,High
+Please note that the ceiling is leaking water near the canteen and it needs immediate attention,Maintenance,Critical
+Please note that my certificate has not been issued in classroom 204 it is a minor problem,Other,Low
+The security guard was not at the gate in lab 1,Security,Medium
+Please note that i need help with my id card in the department office it is a minor problem,Other,Low
+Please note that the internet connection is completely down,Internet/Wi-Fi,High
+The biometric attendance is not working since morning and the exam is about to start,Security,High
+Please note that the keyboard keys are not working in the main building again today and the placement test is starting soon,Hardware,High
+"Sir, the tap is leaking in the examination hall",Maintenance,Low
+"The scanner is not working in lab 3, please fix it urgently",Hardware,Medium
+There is no electricity in the examination hall again today but we can manage for now,Electricity,Medium
+"Kindly check, the screen is flickering in the server room",Hardware,Medium
+"Kindly check, the air conditioner is not cooling in the main building again today and our practical exam is today",Maintenance,High
+"I want to report that the lights are not working in the hostel since yesterday, please fix it urgently",Electricity,High
+Voltage fluctuation is damaging the devices in the server room,Electricity,High
+The faculty is not responding to my emails only sometimes,Other,Low
+"Kindly check, the air conditioner is not cooling in classroom 204 again today",Maintenance,Medium
+"Kindly check, the hard disk has crashed this week and the exam is about to start",Hardware,Critical
+"Sir, i lost my id card in classroom 204 this week",Security,Medium
+Please note that my fees receipt has not been issued in the server room again today,Other,Medium
+I want to report that unable to install the required software in the department office for the last two days,Software,Medium
+"Sir, the ceiling is leaking water in lab 3 since yesterday",Maintenance,High
+"Hello, i lost my id card in the department office for the last two days it is a minor problem",Security,Low
+I want to report that the cpu is making a loud noise in the examination hall since yesterday,Hardware,Low
+The drainage is blocked in classroom 204 and students are unable to work,Maintenance,Critical
+The faculty is not responding to my emails again today,Other,Low
+"Hello, an unknown person is roaming around in lab 1 for the last two days",Security,High
+The wifi signal is very weak in classroom 204 this week,Internet/Wi-Fi,Low
+"Hello, the printer is jammed in the hostel again today but it is not urgent",Hardware,Low
+"Sir, the ceiling is leaking water in the hostel for the last two days and our practical exam is today",Maintenance,Critical
+"Hello, the college bus is always late near the canteen this week",Other,Medium
+The mouse is not responding since morning,Hardware,Low
+The wifi is not working for the last two days and it needs immediate attention,Internet/Wi-Fi,Critical
+Please note that the server hardware has failed,Hardware,Critical
+"Kindly check, the washroom is not clean in classroom 204 and it needs immediate attention",Maintenance,High
+Please note that the library is closing at wrong timings in the server room but we can manage for now,Other,Low
+The database application shows an error in the seminar hall,Software,Medium
+I want to report that the canteen food quality is poor and the placement test is starting soon,Other,High
+"Sir, the window glass is broken in the server room it is a minor problem",Maintenance,Low
+The ceiling is leaking water since yesterday,Maintenance,High
+My laptop was stolen in the computer laboratory since yesterday and our practical exam is today,Security,Critical
+The wifi is not working in the computer laboratory,Internet/Wi-Fi,High
+The notice board has outdated information in the seminar hall for the last two days,Other,Low
+Cannot access any website in the hostel and the exam is about to start,Internet/Wi-Fi,High
+The washroom is not clean in the library since yesterday only sometimes,Maintenance,Low
+The cpu is making a loud noise in the seminar hall,Hardware,Low
+The software license has expired in the seminar hall for the last two days,Software,Medium
+There is no electricity in the main building for the last two days and the placement test is starting soon,Electricity,Critical
+Please note that the notice board has outdated information in the examination hall again today and students are unable to work,Other,Medium
+"Hello, the biometric attendance is not working since morning and the placement test is starting soon",Security,High
+"Sir, voltage fluctuation is damaging the devices but we can manage for now",Electricity,Medium
+Please note that the network keeps disconnecting in the seminar hall since morning,Internet/Wi-Fi,Medium
+"Hello, the computer is not starting it is a minor problem",Hardware,Medium
+"Hello, the fan is making noise in the department office for the last two days",Maintenance,Low
+I did not receive my exam hall ticket in classroom 204 this week but it is not urgent,Other,Medium
+The drainage is blocked in the server room,Maintenance,High
+"Hello, unable to login to the student portal in the computer laboratory again today it is a minor problem",Software,Medium
+The biometric attendance is not working in the seminar hall and this is an emergency,Security,High
+"Kindly check, the database application shows an error in the seminar hall this week and the placement test is starting soon",Software,High
+Please note that the ceiling is leaking water in the main building since morning and students are unable to work,Maintenance,Critical
+The projector is not turning on in the library and this is an emergency,Hardware,High
+The ceiling is leaking water in the library,Maintenance,High
+"Kindly check, there was unauthorized access to the server room near the canteen, please fix it urgently",Security,Critical
+The water cooler is leaking in the computer laboratory again today and students are unable to work,Maintenance,High
+"Sir, i did not receive my exam hall ticket near the canteen for the last two days",Other,High
+I want to report that unable to install the required software in lab 1 and students are unable to work,Software,High
+The notice board has outdated information in the computer laboratory for the last two days,Other,Low
+Please note that the ups is beeping continuously in the library since yesterday and this is an emergency,Electricity,High
+The faculty is not responding to my emails since yesterday,Other,Low
+"Sir, there is no network connectivity",Internet/Wi-Fi,High
+The server hardware has failed in the library,Hardware,Critical
+"Kindly check, the bench is damaged in the server room this week",Maintenance,Low
+The window glass is broken in the hostel since morning,Maintenance,Medium
+The power supply keeps tripping in classroom 204 again today,Electricity,High
+"Kindly check, the scanner is not working",Hardware,Low
+"Kindly check, the power sockets are not working since morning and the placement test is starting soon",Electricity,High
+"Sir, the door lock is broken in the seminar hall",Maintenance,Medium
+I want to report that the hard disk has crashed near the canteen since yesterday but we can manage for now,Hardware,Medium
+"Hello, the door lock is broken in the server room since yesterday and the placement test is starting soon",Maintenance,High
+"I did not receive my exam hall ticket, please fix it urgently",Other,Critical
+Someone tried to access my account without permission in the department office,Security,High
+The whiteboard is damaged in the main building since yesterday,Maintenance,Low
+The ceiling is leaking water in lab 1 for the last two days and our practical exam is today,Maintenance,Critical
+"Kindly check, my certificate has not been issued and the exam is about to start",Other,High
+The printer is jammed near the canteen only sometimes,Hardware,Low
+I want to report that the entrance gate lock is broken in the seminar hall since morning it is a minor problem,Security,Medium
+I want to report that an electric wire is hanging loose in lab 3,Electricity,Critical
+"Kindly check, the door lock is broken for the last two days",Maintenance,Medium
+"Kindly check, the ups is beeping continuously in the seminar hall this week",Electricity,Medium
+The hard disk has crashed in the seminar hall only sometimes,Hardware,Medium
+"The scanner is not working in the examination hall, please fix it urgently",Hardware,Medium
+Please note that i lost my id card in the examination hall for the last two days,Security,Medium
+"Sir, the internet speed is very slow in the examination hall",Internet/Wi-Fi,Low
+"Kindly check, the projector is not turning on in the seminar hall this week",Hardware,Medium
+The excel file is corrupted and will not open in the server room since yesterday and it needs immediate attention,Software,High
+An electric wire is hanging loose near the canteen it is a minor problem,Electricity,High
+The fan is making noise in the examination hall again today and the exam is about to start,Maintenance,Medium
+"Hello, the cpu is making a loud noise in the computer laboratory again today",Hardware,Low
+"Kindly check, the network keeps disconnecting in the main building this week and the exam is about to start",Internet/Wi-Fi,High
+"Kindly check, there is no electricity in classroom 204",Electricity,High
+"Kindly check, there is no electricity in the server room",Electricity,High
+"Kindly check, the antivirus is showing a virus warning in the main building since yesterday it is a minor problem",Software,Medium
+"Python is not installed on the lab computers in the department office for the last two days, please fix it urgently",Software,High
+"Hello, the window glass is broken in classroom 204 this week",Maintenance,Medium
+The keyboard keys are not working in the hostel,Hardware,Medium
+The computer monitor is broken in the library since yesterday and students are unable to work,Hardware,High
+The antivirus is showing a virus warning in the server room since morning it is a minor problem,Software,Medium
+"Sir, the drainage is blocked in lab 1",Maintenance,High
+"Sir, unable to install the required software in the hostel this week and the exam is about to start",Software,High
+"Kindly check, the tap is leaking near the canteen for the last two days",Maintenance,Low
+Please note that the college bus is always late since morning and this is an emergency,Other,High
+"Sir, the projector is not turning on again today, please fix it urgently",Hardware,High
+"Kindly check, the water cooler is leaking in the seminar hall since morning",Maintenance,Medium
+I want to report that an unknown person is roaming around in the library again today,Security,High
+The cctv camera is not working in lab 1 since yesterday,Security,High
+The exam software is not loading in the main building again today,Software,High
+"Hello, i did not receive my exam hall ticket in the library again today",Other,High
+"Sir, someone tried to access my account without permission in the server room and it needs immediate attention",Security,Critical
+I want to change my timetable slot in the computer laboratory this week,Other,Low
+"Kindly check, i lost my id card in the hostel this week and this is an emergency",Security,High
+Please note that an electric wire is hanging loose in lab 3 again today,Electricity,Critical
+"Hello, the canteen food quality is poor for the last two days but we can manage for now",Other,Low
+There was unauthorized access to the server room in the department office,Security,Critical
+The operating system is very slow in the library for the last two days it is a minor problem,Software,Low
+"Sir, the washroom is not clean in the examination hall since morning",Maintenance,Medium
+"Sir, the ceiling is leaking water in classroom 204 again today but it is not urgent",Maintenance,Medium
+"Hello, the computer is not starting in the seminar hall but it is not urgent",Hardware,Medium
+Please note that the application keeps crashing in the main building since yesterday,Software,Medium
+"Hello, i did not receive my exam hall ticket in the computer laboratory since yesterday",Other,High
+I want to report that the switch board is sparking in lab 1 since morning,Electricity,Critical
+The database application shows an error in lab 1,Software,Medium
+"Sir, the security guard was not at the gate in the hostel since yesterday",Security,Medium
+I want to report that the power sockets are not working in the examination hall since yesterday,Electricity,Medium
+I want to report that the bench is damaged in the examination hall but we can manage for now,Maintenance,Low
+"Hello, my certificate has not been issued near the canteen but it is not urgent",Other,Low
+The bulb has fused in the department office since morning it is a minor problem,Electricity,Low
+The software license has expired in lab 3 since morning,Software,Medium
+The antivirus is showing a virus warning and it needs immediate attention,Software,Critical
+The power supply keeps tripping in classroom 204 this week and the exam is about to start,Electricity,Critical
+The power supply keeps tripping in the hostel again today and the exam is about to start,Electricity,Critical
+Ms word is not opening since morning,Software,Medium
+"Sir, i did not receive my exam hall ticket in the seminar hall since morning",Other,High
+"Kindly check, there is a suspicious bag lying unattended in the hostel",Security,Critical
+The drainage is blocked in lab 1 this week,Maintenance,High
+I want to report that there is a power failure in classroom 204 again today but it is not urgent,Electricity,Medium
+"Sir, the cctv camera is not working in the seminar hall for the last two days it is a minor problem",Security,Medium
+"Hello, the parking space is not sufficient in the server room again today and students are unable to work",Other,Medium
+The parking space is not sufficient in the server room only sometimes,Other,Low
+"My certificate has not been issued in the computer laboratory for the last two days, please fix it urgently",Other,High
+"Hello, there is a suspicious bag lying unattended again today",Security,Critical
+The entrance gate lock is broken in lab 1 since morning,Security,High
+Please note that the internet connection is completely down again today only sometimes,Internet/Wi-Fi,Medium
+I want to report that the software license has expired since yesterday,Software,Medium
+"Kindly check, the computer is not starting in the library this week",Hardware,High
+"Kindly check, the cctv camera is not working in the library and the placement test is starting soon",Security,Critical
+I want to report that the wifi signal is very weak in the seminar hall for the last two days,Internet/Wi-Fi,Low
+I want to report that i lost my id card in the server room since yesterday but it is not urgent,Security,Low
+Please note that the server hardware has failed in the department office for the last two days it is a minor problem,Hardware,High
+There is a suspicious bag lying unattended in the seminar hall this week and the placement test is starting soon,Security,Critical
+"Kindly check, there is a suspicious bag lying unattended in lab 3 it is a minor problem",Security,High
+"Hello, my scholarship amount has not arrived in classroom 204 since morning",Other,Medium
+The wifi password is not working in the server room this week,Internet/Wi-Fi,Medium
+Please note that the entrance gate lock is broken in classroom 204 for the last two days and our practical exam is today,Security,Critical
+The exam software is not loading near the canteen since morning but we can manage for now,Software,Medium
+"Sir, a student is misusing another student's id card in the seminar hall for the last two days but it is not urgent",Security,Low
+The tap is leaking in the main building,Maintenance,Low
+The biometric attendance is not working in lab 1 this week and students are unable to work,Security,High
+"Sir, my scholarship amount has not arrived in the seminar hall since morning it is a minor problem",Other,Low
+The antivirus is showing a virus warning in the computer laboratory,Software,High
+"Kindly check, the generator is not starting in lab 1 for the last two days but it is not urgent",Electricity,Low
+The ups is beeping continuously in the examination hall since morning,Electricity,Medium
+"Sir, the biometric attendance is not working in the library and the placement test is starting soon",Security,High
+Please note that the operating system is very slow near the canteen since morning,Software,Low
+The internet is lagging a lot in the examination hall this week and the placement test is starting soon,Internet/Wi-Fi,Medium
+"Kindly check, i did not receive my exam hall ticket, please fix it urgently",Other,Critical
+The cctv camera is not working in the library,Security,High
+"Sir, the internet connection is completely down near the canteen again today",Internet/Wi-Fi,High
+There is a suspicious bag lying unattended in lab 3 again today and it needs immediate attention,Security,Critical
+I want to report that the air conditioner is not cooling in the examination hall since yesterday but we can manage for now,Maintenance,Low
+I want to report that someone tried to access my account without permission in the hostel since yesterday,Security,High
+"The lan cable is not connecting to the network this week, please fix it urgently",Internet/Wi-Fi,High
+Cannot access any website in lab 3 again today,Internet/Wi-Fi,Medium
+The browser is freezing near the canteen and it needs immediate attention,Software,Medium
+Please note that the computer is not starting in the main building this week and students are unable to work,Hardware,Critical
+The network keeps disconnecting in the server room again today,Internet/Wi-Fi,Medium
+The parking space is not sufficient since morning it is a minor problem,Other,Low
+"Hello, the database application shows an error in the server room this week",Software,Medium
+The window glass is broken in the examination hall since yesterday,Maintenance,Medium
+The power supply keeps tripping in the library since yesterday and our practical exam is today,Electricity,Critical
+"Hello, the software license has expired near the canteen again today",Software,Medium
+"Kindly check, the room needs cleaning in the library again today",Maintenance,Low
+Please note that an electric wire is hanging loose in lab 1,Electricity,Critical
+"Kindly check, the biometric attendance is not working in the department office for the last two days",Security,Medium
+"Hello, the whiteboard is damaged in classroom 204 for the last two days",Maintenance,Low
+"Hello, the screen is flickering in the hostel",Hardware,Medium
+"Kindly check, the internet speed is very slow in the server room for the last two days only sometimes",Internet/Wi-Fi,Low
+"Hello, the washroom is not clean in the computer laboratory",Maintenance,Medium
+"Hello, the screen is flickering in the computer laboratory again today and this is an emergency",Hardware,High
+"Sir, the faculty is not responding to my emails in the server room this week but it is not urgent",Other,Low
+I lost my id card since yesterday,Security,Medium
+The network keeps disconnecting in the library since morning and our practical exam is today,Internet/Wi-Fi,High
+"Sir, the network keeps disconnecting in lab 3 since yesterday",Internet/Wi-Fi,Medium
+The screen is flickering in lab 3,Hardware,Medium
+"Kindly check, the internet speed is very slow in classroom 204 this week",Internet/Wi-Fi,Low
+I want to report that the air conditioner is not cooling for the last two days,Maintenance,Medium
+"Hello, the bulb has fused in the examination hall since yesterday",Electricity,Low
+"Kindly check, the scanner is not working near the canteen since morning",Hardware,Low
+"Kindly check, the antivirus is showing a virus warning and it needs immediate attention",Software,Critical
+Unable to connect to the college wifi near the canteen since morning and our practical exam is today,Internet/Wi-Fi,High
+There is a power failure in the library,Electricity,High
+"Sir, the database application shows an error",Software,Medium
+Ms word is not opening near the canteen since yesterday and our practical exam is today,Software,High
+"Sir, the fan is making noise in the main building for the last two days",Maintenance,Low
+"The room needs cleaning in the seminar hall since morning, please fix it urgently",Maintenance,Medium
+My scholarship amount has not arrived since morning but we can manage for now,Other,Low
+I want to report that unable to login to the student portal in the server room for the last two days,Software,High
+The operating system is very slow since yesterday,Software,Low
+The computer monitor is broken in the examination hall,Hardware,Medium
+There is a suspicious bag lying unattended in the server room this week,Security,Critical
+I want to report that the water cooler is leaking in classroom 204 this week,Maintenance,Medium
+The door lock is broken in the library and this is an emergency,Maintenance,High
+"Kindly check, the cpu is making a loud noise in the seminar hall since morning",Hardware,Low
+The entrance gate lock is broken in the hostel,Security,High
+I want to report that the generator is not starting in the server room for the last two days,Electricity,Medium
+The network keeps disconnecting in the main building since yesterday,Internet/Wi-Fi,Medium
+The college bus is always late in the seminar hall since yesterday,Other,Medium
+I want to report that the cctv camera is not working in lab 3 again today,Security,High
+"Sir, the internet speed is very slow in the computer laboratory since morning, please fix it urgently",Internet/Wi-Fi,Medium
+"Sir, ms word is not opening in lab 1 again today",Software,Medium
+"Sir, the internet is lagging a lot near the canteen since morning only sometimes",Internet/Wi-Fi,Low
+The security guard was not at the gate in lab 3 again today,Security,Medium
+Please note that the drainage is blocked in the main building since yesterday,Maintenance,High
+Please note that the room needs cleaning in lab 1 since morning,Maintenance,Low
+"Kindly check, the generator is not starting in the hostel since morning and the exam is about to start",Electricity,High
+Please note that unable to connect to the college wifi in the library but it is not urgent,Internet/Wi-Fi,Low
+There is no electricity in classroom 204 since yesterday and our practical exam is today,Electricity,Critical
+"Sir, the security guard was not at the gate in the seminar hall since morning",Security,Medium
+The power supply keeps tripping in the computer laboratory this week,Electricity,High
+I want to report that unable to login to the student portal again today only sometimes,Software,Medium
+The router is not responding in the main building again today and this is an emergency,Internet/Wi-Fi,Critical
+An electric wire is hanging loose in lab 1 again today,Electricity,Critical
+I did not receive my exam hall ticket in the main building,Other,High
+There is no electricity in the department office again today,Electricity,High
+I want to report that the antivirus is showing a virus warning,Software,High
+"Sir, the projector is not turning on in the computer laboratory",Hardware,Medium
+"Sir, my fees receipt has not been issued in lab 1 this week and the exam is about to start",Other,High
+"Sir, my fees receipt has not been issued",Other,Medium
+"Hello, the drainage is blocked in the library since morning",Maintenance,High
+"Kindly check, i need help with my id card in the department office again today",Other,Low
+"Hello, someone entered the restricted area without permission in the library and students are unable to work",Security,Critical
+"Kindly check, the antivirus is showing a virus warning again today and our practical exam is today",Software,Critical
+There is a suspicious bag lying unattended this week and it needs immediate attention,Security,Critical
+"Hello, the biometric attendance is not working in the examination hall since morning, please fix it urgently",Security,High
+The cpu is making a loud noise in the computer laboratory and students are unable to work,Hardware,Medium
+"Hello, the window glass is broken in the department office since yesterday",Maintenance,Medium
+I lost my id card in the examination hall,Security,Medium
+"Sir, the wifi password is not working in the library since yesterday",Internet/Wi-Fi,Medium
+The room needs cleaning in the examination hall,Maintenance,Low
+There was unauthorized access to the server room this week,Security,Critical
+"Kindly check, unable to install the required software in the seminar hall this week and our practical exam is today",Software,High
+The network keeps disconnecting in the examination hall,Internet/Wi-Fi,Medium
+The bulb has fused in the main building again today,Electricity,Low
+The drainage is blocked in the department office since yesterday,Maintenance,High
+Please note that the screen is flickering in the main building for the last two days,Hardware,Medium
+"Kindly check, unable to install the required software in the hostel and it needs immediate attention",Software,High
+"Hello, the printer is jammed in the hostel this week",Hardware,Medium
+The tube light is flickering in the library but we can manage for now,Electricity,Low
+The tap is leaking in the hostel for the last two days,Maintenance,Low
+"Sir, the water cooler is leaking in the hostel again today but we can manage for now",Maintenance,Low
+The generator is not starting in lab 1 again today it is a minor problem,Electricity,Low
+The switch board is sparking in the hostel since morning,Electricity,Critical
+"Hello, my scholarship amount has not arrived since yesterday",Other,Medium
+The printer is jammed in the examination hall for the last two days,Hardware,Medium
+I want to report that my scholarship amount has not arrived in classroom 204 since morning,Other,Medium
+"Sir, the wifi signal is very weak in lab 3 again today",Internet/Wi-Fi,Low
+"Kindly check, the power sockets are not working in lab 3 again today",Electricity,Medium
+I want to report that the internet connection is completely down in the main building since morning,Internet/Wi-Fi,High
+I want to report that the water cooler is leaking in the computer laboratory again today,Maintenance,Medium
+The power sockets are not working in the server room since yesterday and students are unable to work,Electricity,High
+I want to report that unable to install the required software in the main building since morning and it needs immediate attention,Software,High
+The drainage is blocked in the computer laboratory since morning,Maintenance,High
+"Hello, the computer is not starting in the library this week and the placement test is starting soon",Hardware,Critical
+"Kindly check, the canteen food quality is poor in the examination hall since morning",Other,Medium
+"Hello, the wifi signal is very weak in the hostel",Internet/Wi-Fi,Low
+The router is not responding in the computer laboratory,Internet/Wi-Fi,High
+Please note that the projector is not turning on in the examination hall this week,Hardware,Medium
+"Sir, the software license has expired in the examination hall since yesterday and this is an emergency",Software,High
+"Sir, the drainage is blocked in classroom 204 this week and it needs immediate attention",Maintenance,Critical
+The projector is not turning on in the seminar hall,Hardware,Medium
