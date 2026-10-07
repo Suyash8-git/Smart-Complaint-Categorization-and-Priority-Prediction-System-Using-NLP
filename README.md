@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Complaint Categorization and Priority Prediction System (NLP)
 
 ## Run
@@ -10,3 +11,6 @@
 ## Pipeline
 Complaint -> clean/lowercase/tokenize/stopwords (negations kept) -> TF-IDF (1-2 grams) -> Logistic Regression / Naive Bayes
 -> Category + Priority -> Department & Action (rule-based mapping)
+=======
+# Smart-Complaint-Categorization-and-Priority-Prediction-System-Using-NLP
+>>>>>>> a7bb46da9c4400140b36d1f6569059125c5e5524
